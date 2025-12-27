@@ -1,4 +1,4 @@
-This project is based on this project by 0CottonBuds: https://github.com/0CottonBuds/Osu-Most-Played-Beatmap-Downloader/tree/6fd740f03136c55bb908fbbb921af8783eb839a7
+This project is based on another project by 0CottonBuds: https://github.com/0CottonBuds/Osu-Most-Played-Beatmap-Downloader/tree/6fd740f03136c55bb908fbbb921af8783eb839a7
 
 This program will automatically download all of your osu! top plays and store them in a folder.
 Works on any mode.
