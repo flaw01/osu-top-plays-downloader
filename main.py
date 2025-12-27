@@ -50,7 +50,7 @@ def fetch_osu_top_plays(token: str, user_id: int, limit_total: int = 1000) -> li
 
     while offset < limit_total:
         params = {
-            "mode": "osu",
+            "mode": "osu", # you can change this to mania, taiko or fruits (catch)
             "limit": min(page_size, limit_total - offset),
             "offset": offset,
             "legacy_only": 0,
