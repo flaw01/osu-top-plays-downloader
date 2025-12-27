@@ -7,7 +7,7 @@ HOW TO USE:
 2. Download main.py and put it in a folder you want to store you maps into.
 4. Get your osu! user id:
    Go to your profile and copy the numbers at the end of the URL, this is your user id.
-   https://osu.ppy.sh/users/22845738 --> 22845738 is your user id.
+   EXAMPLE: https://osu.ppy.sh/users/22845738 --> 22845738 is your user id.
    Open main.py and edit the script on line 143 to fill in your user id.
 5. Get your osu! client id and client secret:
    Go to your account settings on the osu website, scroll to OAuth and click New OAuth Application and name it anything you want.
